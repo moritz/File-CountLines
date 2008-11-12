@@ -1,4 +1,8 @@
 Revision History for Perl module File::CountLines
 
+0.0.2 Wed Nov 12 20:01:34 CET 2008
+- require a sufficiently new version of `charnames'
+- Small documentation fix
+
 0.0.1 Sun Nov  9 23:29:53 CET 2008
 - Initial release

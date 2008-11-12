@@ -10,7 +10,7 @@ WriteMakefile
           'PREREQ_PM' => {
                            'warnings' => 0,
                            'strict' => 0,
-                           'charnames' => 0,
+                           'charnames' => '1.01',
                            'Exporter' => '5.57',
                            'Carp' => 0
                          }

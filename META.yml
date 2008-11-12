@@ -10,13 +10,13 @@ resources:
 requires:
   Carp: 0
   Exporter: 5.57
-  charnames: 0
+  charnames: 1.01
   strict: 0
   warnings: 0
 provides:
   File::CountLines:
     file: lib/File/CountLines.pm
-    version: 0.0.1
+    version: 0.0.2
 generated_by: Module::Build version 0.280801
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html

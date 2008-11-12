@@ -52,6 +52,11 @@ DESCRIPTION
     supplied with the "blocksize" option. The default is 4096, and can be
     changed by setting $File::CountLines::BlockSize.
 
+    Do not use a block size smaller than the length of the separator, that
+    might produce wrong results. (In general there's no reason to chose a
+    smaller block size at all. Depending on your size a larger block size
+    might speed up things a bit.)
+
 Character Encodings
     If you supply a separator yourself, it should not be a decoded string.
 

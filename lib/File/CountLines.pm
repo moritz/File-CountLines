@@ -2,7 +2,7 @@ package File::CountLines;
 use strict;
 use warnings;
 
-our $VERSION = '0.0.1';
+our $VERSION = '0.0.2';
 our @EXPORT_OK = qw(count_lines);
 
 use Exporter 5.057;
