@@ -1,6 +1,6 @@
 ---
 name: File-CountLines
-version: 0.0.1
+version: 0.0.2
 author:
   - Moritz Lenz
 abstract: Efficiently count the number of line breaks in a file
