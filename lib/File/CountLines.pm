@@ -185,7 +185,7 @@ If there's demand for, I can implement that though.
 
 You can add your own EOL styles by adding them to the
 C<%File::CountLines::StyleMap> hash, with the name of the style as hash key
-and the seperator as the value.
+and the separator as the value.
 
 =head1 AUTHOR
 
